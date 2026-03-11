@@ -32,3 +32,9 @@ section {
     padding-top: 80px;
     padding-bottom: 80px;
 }
+
+.full-screen {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
